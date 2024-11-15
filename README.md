@@ -17,8 +17,9 @@ Bem-vindo ao repositório CodeotecaBook. Aqui você encontra uma vasta coleção
 💡 Nota: Acesse o link do Google Drive para explorar todos os livros disponíveis.
 
 
-A arte de dar feedback (Um guia acima da média - HBR) - Motive sua equipe. Melhore a comunicação. Estabeleça objetivos claros. - Autor (Harvard Business Review).pdf
-A Course in Machine Learning.pdf
+
+1. A arte de dar feedback (Um guia acima da média - HBR) - Motive sua equipe. Melhore a comunicação. Estabeleça objetivos claros. - Autor (Harvard Business Review).pdf
+2. A Course in Machine Learning.pdf
 Adam Fowler - NoSQL For Dummies-Wiley (2015).pdf
 Adam Freeman - Essential TypeScript 4_ From Beginner to Pro-Apress (2021).epub
 Adrian Fernandez and Dung Dang (Auth.) - Getting Started with the MSP430 Launchpad (2013).pdf
