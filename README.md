@@ -1,23 +1,44 @@
 # CodeotecaBooks
 Books here!!!!!!
 
-## 📚 Biblioteca Digital de Livros Técnicos
+# 📚 Biblioteca Digital de Livros Técnicos
 
-### Bem-vindo ao repositório CodeotecaBooks. Aqui você encontra uma vasta coleção de livros técnicos:
+## 📚 CodeotecaBooks
 
-#### 📘 Programação  
-#### 📙 Ciência de Dados e Machine Learning  
-#### 🛠 Engenharia de Software  
-#### 🔒 Segurança da Informação  
-#### 🌐 Desenvolvimento Web  
-#### 📱 Desenvolvimento Mobile  
-#### 🖥 Sistemas Operacionais e Redes  
-#### 🧠 Outros Temas  
-=================================================================================================
+Bem-vindo ao repositório **CodeotecaBooks**! Aqui você encontra uma vasta coleção de livros técnicos organizados por temas, ideais para profissionais e entusiastas da área de tecnologia.
 
-### 💡 Nota: Acesse o link | https://drive.google.com/drive/folders/11pk50JEymfLW8fmWJ7aaNQkvpqOipDAo?usp=sharing | do Google Drive para explorar todos os livros disponíveis.
+## 🗂 Temas Disponíveis
 
-=================================================================================================
+- **📘 Programação**  
+  Algoritmo de programação, linguagens como Python, Java, JavaScript, C#, Kotlin, PHP e muito mais.
+
+- **📙 Ciência de Dados e Machine Learning**  
+  Introdução a algoritmos, aprendizado de máquina, redes neurais e big data.
+
+- **🛠 Engenharia de Software**  
+  Práticas ágeis, design patterns, arquitetura limpa e testes.
+
+- **🔒 Segurança da Informação**  
+  Pentest, criptografia, segurança de aplicações e proteção de dados.
+
+- **🌐 Desenvolvimento Web**  
+  Frameworks como React, Angular, Node.js, e desenvolvimento front-end e back-end.
+
+- **📱 Desenvolvimento Mobile**  
+  Android com Java/Kotlin, Flutter, iOS com Swift e desenvolvimento híbrido.
+
+- **🖥 Sistemas Operacionais e Redes**  
+  Linux, Windows Server, redes de computadores e fundamentos de sistemas operacionais.
+
+- **🧠 Outros Temas**  
+  Blockchain, computação quântica, robótica, matemática discreta, entre outros.
+
+---
+
+💡 **Nota:** Explore todos os livros disponíveis acessando o Google Drive no link abaixo:  
+[📂 Acesse a coleção completa no Google Drive](https://drive.google.com/drive/folders/11pk50JEymfLW8fmWJ7aaNQkvpqOipDAo?usp=sharing)
+
+---
 
 1. A arte de dar feedback (Um guia acima da média - HBR) - Motive sua equipe. Melhore a comunicação. Estabeleça objetivos claros. - Autor (Harvard Business Review).pdf
 2. A Brief Introduction to Machine.pdf
