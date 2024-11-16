@@ -530,7 +530,7 @@ Bem-vindo ao repositório **CodeotecaBooks**! Aqui você encontra uma vasta cole
 488. Linux Mint ed. Cinnamon.pdf
 489. Linux Mint ed. Mate.pdf
 490. LinuxNotesForProfessionals.pdf
-491. lista_de_livros_numerado.txt
+491. AlgoritmosResolvidos500.pdf
 492. lista_de_livros.txt
 493. lista.txt
 494. livro-bootstrap.pdf
@@ -890,6 +890,7 @@ Bem-vindo ao repositório **CodeotecaBooks**! Aqui você encontra uma vasta cole
 848. Xamarin Forms Desenvolvimento de aplicações móveis multiplataforma.pdf
 849. XamarinFormsNotesForProfessionals.pdf
 850. Zend Certified Engineer Descomplicando a certificação PHP.pdf
+     
           
        
       
