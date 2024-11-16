@@ -38,6 +38,21 @@ Bem-vindo ao repositório **CodeotecaBooks**! Aqui você encontra uma vasta cole
 💡 **Nota:** Explore todos os livros disponíveis acessando o Google Drive no link abaixo:  
 [📂 Acesse a coleção completa no Google Drive](https://drive.google.com/drive/folders/11pk50JEymfLW8fmWJ7aaNQkvpqOipDAo?usp=sharing)
 
+
+<img src="4.png" alt="Texto alternativo" width="400"/>
+<img src="5.png" alt="Texto alternativo" width="400"/>
+<img src="6.png" alt="Texto alternativo" width="400"/>
+<img src="7.png" alt="Texto alternativo" width="400"/>
+<img src="8.png" alt="Texto alternativo" width="400"/>
+<img src="9.png" alt="Texto alternativo" width="400"/>
+<img src="10.png" alt="Texto alternativo" width="400"/>
+<img src="11.png" alt="Texto alternativo" width="400"/>
+<img src="12.png" alt="Texto alternativo" width="400"/>
+<img src="13.png" alt="Texto alternativo" width="400"/>
+<img src="14.png" alt="Texto alternativo" width="400"/>
+
+
+
 ---
 
 1. A arte de dar feedback (Um guia acima da média - HBR) - Motive sua equipe. Melhore a comunicação. Estabeleça objetivos claros. - Autor (Harvard Business Review).pdf
