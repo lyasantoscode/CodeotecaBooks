@@ -10,7 +10,7 @@ Bem-vindo ao repositório **CodeotecaBooks**! Aqui você encontra uma vasta cole
 ## 🗂 Temas Disponíveis
 
 - **📘 Programação**  
-  Algoritmo de programação, linguagens como Python, Java, JavaScript, C#, Kotlin, PHP e muito mais.
+  Algoritmos de programação, linguagens como Python, Java, JavaScript, C#, Kotlin, PHP e muito mais.
 
 - **📙 Ciência de Dados e Machine Learning**  
   Introdução a algoritmos, aprendizado de máquina, redes neurais e big data.
