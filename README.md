@@ -905,6 +905,9 @@ Bem-vindo ao repositório **CodeotecaBooks**! Aqui você encontra uma vasta cole
 848. Xamarin Forms Desenvolvimento de aplicações móveis multiplataforma.pdf
 849. XamarinFormsNotesForProfessionals.pdf
 850. Zend Certified Engineer Descomplicando a certificação PHP.pdf
+851. Sistemas de Informação Gerenciais_KENNETH C. LAUDON.11a edição.pdf 
+852. Engenharia-de-software-pressman-9-edicao-portugues.pdf 
+
      
           
        
